@@ -1,0 +1,52 @@
+li {
+    list-style-type: none; /* Ẩn marker */
+  }
+  .correct-answer {
+    color: green; /* Màu xanh cho câu trả lời đúng */
+  }
+  
+  .wrong-answer {
+    color: red; /* Màu đỏ cho câu trả lời sai */
+  }
+  
+/* quiz.component.css */
+/* Định dạng modal */
+.modal {
+  display: none;
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.modal-dialog {
+  margin: 5rem auto;
+  max-width: 50%;
+}
+
+.modal-content {
+  background: white;
+}
+
+.modal-header, .modal-footer {
+  padding: 1rem;
+}
+
+.modal-body {
+  padding: 1rem;
+}
+
+/* Định dạng nút "x" */
+.btn-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 1051; /* Không cho nút "x" bị che khuất bởi nội dung khác */
+}
+
+/* Tạo khoảng cách giữa thông báo và nút "x" */
+.modal-gap {
+  height: 2rem; /* Điều chỉnh chiều cao khoảng cách theo ý muốn */
+}

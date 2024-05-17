@@ -1,0 +1,92 @@
+<div class="container">
+  <h1 class="text-center my-4">Quiz App Toeic Part 5</h1>
+  <div *ngIf="!isSubmitted">
+    <!-- Hiển thị câu hỏi và các lựa chọn -->
+    <div *ngFor="let question of getCurrentQuestions(); let i = index">
+      <p>{{ question.question }}</p>
+      <ul>
+        <li *ngFor="let option of question.options">
+          <label>
+          
+            <input type="radio" name="question{{i}}" [value]="option" [(ngModel)]="userAnswers[(currentPage - 1) * questionsPerPage + i]">
+            {{ option }}
+          </label>
+        </li>
+      </ul>
+    </div>
+    <!-- Nút gửi câu trả lời -->
+    <button (click)="submitAnswers()" class="btn btn-primary">Submit</button>
+  </div>
+
+<!-- Modal -->
+<div class="modal" tabindex="-1" role="dialog" [ngClass]="{ 'show': showModal }" [style.display]="showModal ? 'block' : 'none'">
+  <div class="modal-dialog" role="document">
+  <div class="modal-content">
+  <div class="modal-header">
+  <h5 class="modal-title">Thông báo</h5>
+  <button type="button" class="btn-close" aria-label="Close" (click)="hideModal()"></button>
+  </div>
+  <div class="modal-body">
+  <p>Vui lòng chọn câu trả lời cho tất cả các câu hỏi trước khi gửi.</p>
+  <!-- Thêm thông báo xác nhận -->
+  <p>Bạn có muốn xác nhận khi chưa chọn hết tất cả câu hỏi trước khi gửi không?</p>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="hideModal()">Đóng</button>
+  <!-- Thêm nút xác nhận -->
+  <button type="button" class="btn btn-primary" (click)="confirmSubmit()">Xác nhận</button>
+  </div>
+  </div>
+  </div>
+  </div>
+
+
+  
+  <div *ngIf="isSubmitted">
+    <h2>Results: {{ numCorrect }} / {{ questionsData.length }}</h2>
+    <ul>
+      <ng-container *ngFor="let question of questionsData; let qIndex = index">
+        <li>
+          {{ question.question }}
+          <ul>
+            <ng-container *ngFor="let option of question.options; let oIndex = index">
+              <li 
+                [ngClass]="{
+                  'correct-answer': isCorrectAnswer(qIndex, option),
+                  'wrong-answer': isWrongAnswer(qIndex, option),
+                  'selected-answer': isSelectedAnswer(qIndex, option) && !isCorrectAnswer(qIndex, option),
+                  'unselected-answer': !isSelectedAnswer(qIndex, option)
+                }"
+              >
+                {{ option }}
+              </li>
+            </ng-container>
+          </ul>
+        </li>
+        <li *ngIf="userAnswers && userAnswers[qIndex]">
+          Your answer: {{ userAnswers[qIndex] }} 
+          <span *ngIf="isCorrectAnswer(qIndex, userAnswers[qIndex])">
+            (Correct)
+          </span>
+          <span *ngIf="isWrongAnswer(qIndex, userAnswers[qIndex])">
+            (Incorrect, correct answer: {{ questionsData[qIndex].correct }})
+          </span>
+        </li>
+        <hr>
+      </ng-container>
+    </ul>
+    <button (click)="restartQuiz()" class="btn btn-primary">Start</button>
+  </div>
+  
+  
+  <nav>
+    <ul class="pagination justify-content-center">
+      <li class="page-item" [class.disabled]="currentPage === 1">
+        <button class="page-link" (click)="previousPage()" [disabled]="currentPage === 1">Previous</button>
+        </li>
+        <li class="page-item" [class.disabled]="currentPage === maxPage()">
+        <button class="page-link" (click)="nextPage()" [disabled]="currentPage === maxPage()">Next</button>
+        </li>
+    </ul>
+  </nav>
+</div>

@@ -3,6 +3,7 @@ li {
   }
   .correct-answer {
     color: green; /* Màu xanh cho câu trả lời đúng */
+    font-weight: bold;
   }
   
   .wrong-answer {

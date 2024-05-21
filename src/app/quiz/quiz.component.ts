@@ -20,6 +20,7 @@ export class QuizComponent implements OnInit {
   isSubmitted: boolean = false; // Thêm thuộc tính isSubmitted
   showModal: boolean = false; // Thêm thuộc tính showModal
   numCorrect: number = 0;
+  currentPart: string = 'part5'; // Thêm biến currentPart để theo dõi phần hiện tại
 
   constructor(private http: HttpClient) {}
 
@@ -31,18 +32,38 @@ export class QuizComponent implements OnInit {
   // }
 
   ngOnInit(): void {
-    this.http.get<Question[]>('assets/data/questions.json')
-    .subscribe(data => {
-    this.questionsData = this.shuffleQuestions(data);
-    });
-    const savedAnswers = localStorage.getItem('userAnswers');
-    this.userAnswers = savedAnswers ? JSON.parse(savedAnswers) : {};
-    console.log('Retrieved answers:', this.userAnswers);
-    }
+    this.loadQuestions(); // Load câu hỏi khi component khởi tạo
+  }
+
+  // Function để load câu hỏi từ file JSON
+  loadQuestions(): void {
+    const part = this.currentPart === 'part5' ? 'part5.json' : 'part7.json'; // Lựa chọn file JSON tương ứng với phần hiện tại
+    this.http.get<Question[]>('assets/data/' + part)
+      .subscribe(data => {
+        this.questionsData = this.shuffleQuestions(data);
+      });
+  }
 
   shuffleQuestions(questions: Question[]): Question[] {
     return questions.sort(() => Math.random() - 0.5);
   }
+  get quizTitle(): string {
+    return this.currentPart === 'part5' ? 'Quiz App Toeic Part 5' : 'Quiz App Toeic Part 7';
+  }
+  // Function để chuyển đổi giữa Part 5 và Part 7
+  switchToPart(part: string): void {
+    this.currentPart = part;
+    this.loadQuestions(); // Load lại câu hỏi khi chuyển đổi phần
+    this.resetQuiz(); // Reset câu trả lời và kết quả
+  }
+  // Function để reset quiz
+  resetQuiz(): void {
+    this.isSubmitted = false;
+    this.userAnswers = {};
+    localStorage.removeItem('userAnswers');
+    this.currentPage = 1; // Reset trang về trang đầu tiên
+  }
+
 
   handleAnswer(questionIndex: number, answer: string): void {
     this.userAnswers[questionIndex] = answer;

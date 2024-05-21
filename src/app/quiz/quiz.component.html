@@ -1,5 +1,12 @@
 <div class="container">
-  <h1 class="text-center my-4">Quiz App Toeic Part 5</h1>
+  <!-- Thêm nút chuyển đổi giữa Part 5 và Part 7 -->
+  <div class="text-center mb-4">
+    <button class="btn btn-danger" (click)="switchToPart('part5')" [disabled]="currentPart === 'part5'">Part 5</button>&nbsp;
+    <button class="btn btn-warning" (click)="switchToPart('part7')" [disabled]="currentPart === 'part7'">Part 7</button>
+  </div>
+
+  <h1 class="text-center my-4">{{ quizTitle }}</h1>
+
   <div *ngIf="!isSubmitted">
     <!-- Hiển thị câu hỏi và các lựa chọn -->
     <div *ngFor="let question of getCurrentQuestions(); let i = index">
@@ -7,7 +14,6 @@
       <ul>
         <li *ngFor="let option of question.options">
           <label>
-          
             <input type="radio" name="question{{i}}" [value]="option" [(ngModel)]="userAnswers[(currentPage - 1) * questionsPerPage + i]">
             {{ option }}
           </label>
@@ -18,30 +24,28 @@
     <button (click)="submitAnswers()" class="btn btn-primary">Submit</button>
   </div>
 
-<!-- Modal -->
-<div class="modal" tabindex="-1" role="dialog" [ngClass]="{ 'show': showModal }" [style.display]="showModal ? 'block' : 'none'">
-  <div class="modal-dialog" role="document">
-  <div class="modal-content">
-  <div class="modal-header">
-  <h5 class="modal-title">Thông báo</h5>
-  <button type="button" class="btn-close" aria-label="Close" (click)="hideModal()"></button>
-  </div>
-  <div class="modal-body">
-  <p>Vui lòng chọn câu trả lời cho tất cả các câu hỏi trước khi gửi.</p>
-  <!-- Thêm thông báo xác nhận -->
-  <p>Bạn có muốn xác nhận khi chưa chọn hết tất cả câu hỏi trước khi gửi không?</p>
-  </div>
-  <div class="modal-footer">
-    <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="hideModal()">Đóng</button>
-  <!-- Thêm nút xác nhận -->
-  <button type="button" class="btn btn-primary" (click)="confirmSubmit()">Xác nhận</button>
-  </div>
-  </div>
-  </div>
+  <!-- Modal -->
+  <div class="modal" tabindex="-1" role="dialog" [ngClass]="{ 'show': showModal }" [style.display]="showModal ? 'block' : 'none'">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Thông báo</h5>
+          <button type="button" class="btn-close" aria-label="Close" (click)="hideModal()"></button>
+        </div>
+        <div class="modal-body">
+          <p>Vui lòng chọn câu trả lời cho tất cả các câu hỏi trước khi gửi.</p>
+          <!-- Thêm thông báo xác nhận -->
+          <p>Bạn có muốn xác nhận khi chưa chọn hết tất cả câu hỏi trước khi gửi không?</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="hideModal()">Đóng</button>
+          <!-- Thêm nút xác nhận -->
+          <button type="button" class="btn btn-primary" (click)="confirmSubmit()">Xác nhận</button>
+        </div>
+      </div>
+    </div>
   </div>
 
-
-  
   <div *ngIf="isSubmitted">
     <h2>Results: {{ numCorrect }} / {{ questionsData.length }}</h2>
     <ul>
@@ -77,16 +81,15 @@
     </ul>
     <button (click)="restartQuiz()" class="btn btn-primary">Start</button>
   </div>
-  
-  
+
   <nav>
     <ul class="pagination justify-content-center">
       <li class="page-item" [class.disabled]="currentPage === 1">
         <button class="page-link" (click)="previousPage()" [disabled]="currentPage === 1">Previous</button>
-        </li>
-        <li class="page-item" [class.disabled]="currentPage === maxPage()">
+      </li>
+      <li class="page-item" [class.disabled]="currentPage === maxPage()">
         <button class="page-link" (click)="nextPage()" [disabled]="currentPage === maxPage()">Next</button>
-        </li>
+      </li>
     </ul>
   </nav>
 </div>

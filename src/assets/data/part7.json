@@ -328,7 +328,7 @@
       "C. A restaurant",
       "D. A golf course"
     ],
-    "correct": "C. A restauran"
+    "correct": "C. A restaurant"
   },
   {
     "question": " 154. What restriction is placed on the coupon?",
@@ -431,7 +431,8 @@
       "B. To outline the services of moving",
       "C. To illustrate the problem of using a phone overseas",
       "D. To provide a list of travel guideline"
-    ]
+    ],
+    "correct": "B. To outline the services of moving"
   },
   {
     "question": " 167. What is implied about FastnGo service?",
@@ -870,7 +871,7 @@
       "C. To inquire about the hotel's location",
       "D. To request an instructor for a training session"
     ],
-    "correct": "D. To request an instructor for a training session"
+    "correct": "A. To reserve a large meeting space"
   },
   {
     "question": " 197. What will Panacea Pharmaceuticals do in April?",
@@ -880,7 +881,7 @@
       "C. Have an executive lunch meeting",
       "D. Write a review of the SleepWell Inn"
     ],
-    "correct": "D. Write a review of the SleepWell Inn"
+    "correct": "C. Have an executive lunch meeting"
   },
   {
     "question": " 198. How much will it cost to rent the equipment?",
@@ -931,7 +932,7 @@
       "C. State-of-the-art technology",
       "D. Relatively affordable pricing"
     ],
-    "correct": "D. Relatively affordable pricing"
+    "correct": "C. State-of-the-art technology"
   },
   {
     "question": " 188. What kind of company does Ms. Lawrence work for?",
@@ -1247,7 +1248,7 @@
       "C. To offer a special type of a service",
       "D. To request an overdue payment"
     ],
-    "correct": "B. To notify the client that the account has been settled."
+    "correct": "B. To notify the client that the account has been settled"
   },
   {
     "question": " 14. According to the second letter, when should Jason contact Mr. Brown again?",
@@ -1390,7 +1391,7 @@
       "C. The times listed for all 3 calls are accurate",
       "D. The company has a history of making nilling errors"
     ],
-    "correct": "B. He did make the billed calls to Dublin and London."
+    "correct": "B. He did make the billed calls to Dublin and London"
   },
   {
     "question": " Question 193. What does Mr.Batty request?",
@@ -1713,7 +1714,7 @@
     "options": [
       "A. To bill the customer for work done on his car",
       "B. To apologize for a previous billing error",
-      "C. To request payment of an outstanding balance ",
+      "C. To request payment of an outstanding balance",
       "D. To thank the customer for a partial payment"
     ],
     "correct": "C. To request payment of an outstanding balance"
@@ -1722,7 +1723,7 @@
     "question": " Question 5. What does Ms. Patel offer to Mr. Spencer?",
     "options": [
       "A. They will accept a partial payment of $200.",
-      "B. They will consider an alternative payment plan. ",
+      "B. They will consider an alternative payment plan.",
       "C. They will pay him back in monthly installments.",
       "D. They will reduce his outstanding balance by 1%."
     ],
@@ -1815,7 +1816,7 @@
     "question": " Question 181. Why did the residence post the notice of August20?",
     "options": [
       "A. To tell the students about the dorm",
-      "B. To establish a basic set of ground rules ",
+      "B. To establish a basic set of ground rules",
       "C. To warn the students about other bad students",
       "D. To tell the students how to get into the residence"
     ],
@@ -1827,14 +1828,14 @@
       "A. The new resident tutor",
       "B. The friends of people living in Bethune",
       "C. The students who don't live in Bethune",
-      "D. The residents of Bethune dorm "
+      "D. The residents of Bethune dorm"
     ],
     "correct": "D. The residents of Bethune dorm"
   },
   {
     "question": " Question 183. Why was the letter of November written?",
     "options": [
-      "A. Mr Camber's guest broke the rules ",
+      "A. Mr Camber's guest broke the rules",
       "B. Mr McCain broke the rules",
       "C. Mr Camber's friends were having fun",
       "D. Mr Camber himself broke the rules"

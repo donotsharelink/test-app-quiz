@@ -10,6 +10,7 @@
   <div *ngIf="!isSubmitted">
     <!-- Hiển thị câu hỏi và các lựa chọn -->
     <div *ngFor="let question of getCurrentQuestions(); let i = index">
+      <pre class="bold-title">{{ question.title }}</pre>
       <p>{{ question.question }}</p>
       <ul>
         <li *ngFor="let option of question.options">

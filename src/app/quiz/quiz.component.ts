@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
 interface Question {
+  title: string;
   question: string;
   options: string[];
   correct: string;
@@ -40,7 +41,11 @@ export class QuizComponent implements OnInit {
     const part = this.currentPart === 'part5' ? 'part5.json' : 'part7.json'; // Lựa chọn file JSON tương ứng với phần hiện tại
     this.http.get<Question[]>('assets/data/' + part)
       .subscribe(data => {
-        this.questionsData = this.shuffleQuestions(data);
+        if (this.currentPart === 'part5') {
+          this.questionsData = this.shuffleQuestions(data); // Random câu hỏi nếu là part 5
+        } else {
+          this.questionsData = data; // Sử dụng câu hỏi không random nếu là part 7
+        }
       });
   }
 

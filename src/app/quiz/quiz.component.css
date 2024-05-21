@@ -51,3 +51,10 @@ li {
 .modal-gap {
   height: 2rem; /* Điều chỉnh chiều cao khoảng cách theo ý muốn */
 }
+.bold-title {
+  /* text-align: center; */
+  white-space: pre-line; /* Giữ định dạng dòng mới */
+  font-weight: bold;
+  font-size: 1.2em; /* Điều chỉnh kích thước chữ, bạn có thể thay đổi giá trị này */
+  margin-bottom: 1em; /* Thêm khoảng cách bên dưới nếu cần */
+}

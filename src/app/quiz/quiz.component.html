@@ -92,5 +92,14 @@
         <button class="page-link" (click)="nextPage()" [disabled]="currentPage === maxPage()">Next</button>
       </li>
     </ul>
+    <div class="scroll-buttons">
+      <button class="btn btn-primary m-2" (click)="scrollToTop()">
+        <i class="bi bi-arrow-up"></i>
+      </button>
+    
+      <button class="btn btn-primary m-2" (click)="scrollToBottom()">
+        <i class="bi bi-arrow-down"></i>
+      </button>
+    </div>  
   </nav>
 </div>

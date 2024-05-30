@@ -35,6 +35,12 @@ export class QuizComponent implements OnInit {
   ngOnInit(): void {
     this.loadQuestions(); // Load câu hỏi khi component khởi tạo
   }
+  scrollToTop() {
+    window.scrollTo(0, 0); // Cuộn lên đầu trang
+  }
+  scrollToBottom() {
+    window.scrollTo(0, document.body.scrollHeight); // Cuộn xuống cuối trang
+  }
 
   // Function để load câu hỏi từ file JSON
   loadQuestions(): void {

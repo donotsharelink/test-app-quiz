@@ -58,3 +58,8 @@ li {
   font-size: 1.2em; /* Điều chỉnh kích thước chữ, bạn có thể thay đổi giá trị này */
   margin-bottom: 1em; /* Thêm khoảng cách bên dưới nếu cần */
 }
+.scroll-buttons {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}

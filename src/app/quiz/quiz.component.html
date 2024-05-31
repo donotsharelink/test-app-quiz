@@ -88,6 +88,11 @@
       <li class="page-item" [class.disabled]="currentPage === 1">
         <button class="page-link" (click)="previousPage()" [disabled]="currentPage === 1">Previous</button>
       </li>
+      <li class="page-item">
+        <span class="page-link">
+          Page {{ currentPage }} of {{ maxPage() }}
+        </span>
+      </li>
       <li class="page-item" [class.disabled]="currentPage === maxPage()">
         <button class="page-link" (click)="nextPage()" [disabled]="currentPage === maxPage()">Next</button>
       </li>

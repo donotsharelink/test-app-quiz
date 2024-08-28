@@ -1864,7 +1864,7 @@
     "correct": "A. He will be kicked out of the residence"
   },
   {
-    "title": "\nStraton Life",
+    "title": "\nStraton Life Assurance",
     "question": " Question 172. What is scheduled to happen following the president's address?",
     "options": [
       "A. Participants will enjoy some Chinese cuisine.",
@@ -1903,6 +1903,311 @@
       "D. Draft a report"
     ],
      "correct": "D. Draft a report"
+  },
+  {
+    "title": "\nThank you for dining at Le Bistro Lamoure. We hope that you had a great experience with us.......",
+    "question": "What is the purpose of Jilles LeDuc's email?",
+    "options": [
+      "A. To offer free food",
+      "B. To answer a customer's concerns",
+      "C. To get customer feedback",
+      "D. To ask a friend for dinner"
+    ],
+     "correct": "B. To answer a customer's concerns"
+  },
+  {
+    "question": "What did David find the best about the restaurant?",
+    "options": [
+      "A. The food",
+      "B. The service",
+      "C. The ambiance",
+      "D. The wait"
+    ],
+     "correct": "A. The food"
+  },
+  {
+    "question": "How did David feel about his most recent meal at Le Bistro Lamoure?",
+    "options": [
+      "A. It was quite disappointing",
+      "B. It was horrible",
+      "C. It was excellent",
+      "D. It was pretty much okay"
+    ],
+    "correct": "D. It was pretty much okay"
+  },
+  {
+    "question": "How can David take advantage of the complimentary dessert?",
+    "options": [
+      "A. Make arrangements with the head chef",
+      "B. Make a reservation",
+      "C. Reply to the manager's email",
+      "D. Say hello to the manager when he goes next"
+    ],
+    "correct": "D. Say hello to the manager when he goes next"
+  },
+  {
+    "question": "What has the restaurant done to help their service problem?",
+    "options": [
+      "A. Expanded the dining room",
+      "B. Crammed more tables in the dining room",
+      "C. Made the food faster",
+      "D. Made the waiters run"
+    ],
+    "correct": "A. Expanded the dining room"
+  },
+  {
+    "title": "\nHuman Resources\nSmith Formal Interior Design\n24 Callaghan Circle\nLondon, England",
+    "question": "What is the purpose of Mr. Murthy’s letter?",
+    "options": [
+    "A. To submit his resignation",
+    "B. To contact a job applicant",
+    "C. To inquire about open positions",
+    "D. To apply for employment"
+  ],
+  "correct": "D. To apply for employment"
+  },
+  {
+    "question": "Where has Mr. Murthy spent the majority of his career?",
+    "options": [
+      "A. Uptown Home & Office",
+      "B. Brighton Interiors",
+      "C. Elegant Designs",
+      "D. Smith Formal Interior Design"
+    ],
+    "correct": "B. Brighton Interiors"
+  },
+  {
+    "question": "What will accompany Mr. Murthy's letter?",
+    "options": [
+      "A. A company advertisement",
+      "B. A sample of his work",
+      "C. A recommendation letter",
+      "D. A business card"
+    ],
+    "correct": "B. A sample of his work"
+  },
+  {
+    "question": "Which aspect does Ms. Vaas point out as Mr. Murthy’s shortcoming?",
+    "options": [
+      "A. His educational background",
+      "B. His salary expectations",
+      "C. His career as an independent design consultant",
+      "D. His experience at Brighton Interiors"
+    ],
+    "correct": "D. His experience at Brighton Interiors"
+  },
+  {
+    "question": "What does Ms. Vaas recommend?",
+    "options": [
+      "A. Gaining more experience in the design industry",
+      "B. Calling personnel before applying for future positions",
+      "C. Applying for a job in the company’s overseas branch",
+      "D. Mailing an extra copy of his résumé to personnel"
+    ],
+    "correct": "B. Calling personnel before applying for future positions"
+  },
+  {
+    "question": "What is the main topic of the article?",
+    "options": [
+      "A. The loss of jobs in the auto industry",
+      "B. Vehicles that use alternative sources of energy",
+      "C. A proposed change of regulation for an industry",
+      "D. An international consensus on a new environmental standard"
+    ],
+    "correct": "C. A proposed change of regulation for an industry"
+  },
+  {
+    "question": "What does the government say is not working anymore?",
+    "options": [
+      "A. Noncompulsory enforcement of emissions limits",
+      "B. Encouraging the manufacture of small vehicles",
+      "C. Strict quotas on the oil industry",
+      "D. Supporting to produce more hybrid cars"
+    ],
+    "correct": "A. Noncompulsory enforcement of emissions limits"
+  },
+  {
+    "question": "Who wrote the letter?",
+    "options": [
+      "A. A reporter",
+      "B. A marketing consultant",
+      "C. The president of a union",
+      "D. The leader of a business organization"
+    ],
+    "correct": "D. The leader of a business organization"
+  },
+  {
+    "question": "What does Mr. Fulcrum suggest the government try?",
+    "options": [
+      "A. Doing further research",
+      "B. Subsidizing the industry",
+      "C. Formulating a less strict plan",
+      "D. Creating new modes of transportation"
+    ],
+    "correct": "C. Formulating a less strict plan"
+  },
+  {
+    "question": "What do Darcy Enfield and Larry Fulcrum have in common?",
+    "options": [
+      "A. They work in factories",
+      "B. They are union members",
+      "C. They work in research and development",
+      "D. They are involved with the same industry"
+    ],
+    "correct": "D. They are involved with the same industry"
+  },
+  {
+    "title": "\nPassage 1:\nMarrakech restaurant is an exotic dining experience that transcends mere dining and brings you into....\nPassage 2:\nFrom: Mia Niro\nTo:Tahar Jelloun\nSubject: Reservation\nDate: Dec 3",
+    "question": "What is being promoted?",
+    "options": [
+      "A. A special offer by a restaurant",
+      "B. A cultural event",
+      "C. A new website",
+      "D. A Moroccan cooking school"
+    ],
+    "correct": "A. A special offer by a restaurant"
+  },
+  {
+    "question": "What is the purpose of Mia Niro's e-mail?",
+    "options": [
+      "A. To invite Mr. Jelloun to a party",
+      "B. To ask Mr. Jelloun to promote her restaurant",
+      "C. To change her reservation",
+      "D. To make a reservation for an event"
+    ],
+    "correct": "D. To make a reservation for an event"
+  },
+  {
+    "question": "According to the passages, what seems to be true?",
+    "options": [
+      "A. Marrakech restaurant holds special events every month",
+      "B. People who make a reservation in December are eligible for a 10% discount",
+      "C. Marrakech restaurant put the wrong information in the advertisement.",
+      "D. Mr. Jelloun is planning a birthday party for his customer."
+    ],
+    "correct": "C. Marrakech restaurant put the wrong information in the advertisement."
+  },
+  {
+    "question": "According to the advertisement, what is NOT a characteristic of Marrakech restaurant?",
+    "options": [
+      "A. Waiters wearing Moroccan clothes",
+      "B. Live music played by a North African band",
+      "C. A multi-course meal composed of meats, vegetables, and salads",
+      "D. Excellent staff and high-quality service"
+    ],
+    "correct": "B. Live music played by a North African band"
+  },
+  {
+    "question": "What is Mia Niro asking Tahar Jelloun to do?",
+    "options": [
+      "A. Correct inaccurate information",
+      "B. Organize a birthday party",
+      "C. Improve restaurant service",
+      "D. Send a confirmation for the reservation"
+    ],
+    "correct": "D. Send a confirmation for the reservation"
+  },
+  {
+     "title": "\nTo: Tomas Varela\nCc:\nSubject: New shipping firm needed\nMr. Varela,\nMy name is Katie Miller, and I work in the accounts payable department.",
+    "question": "For whom is Ms. Miller's email intended?",
+    "options": [
+      "A. A delivery person",
+      "B. A shipping company executive",
+      "C. A coworker at her company",
+      "D. Her department supervisor"
+    ],
+    "correct": "C. A coworker at her company"
+  },
+  {
+    "question": "Why does Mr. Beamer want to change shipping agents?",
+    "options": [
+      "A. The current firm is unreliable for overseas deliveries",
+      "B. Mr. Varela told him about a provider with lower rates",
+      "C. His company needs to send urgent shipments",
+      "D. Hamilton Express is relocating its facilities overseas."
+    ],
+    "correct": "A. The current firm is unreliable for overseas deliveries"
+  },
+  {
+    "question": "What can be inferred from Mr. Varela's comments about the current shipping agent?",
+    "options": [
+      "A. He concurs with Mr. Beamer's opinion.",
+      "B. He thinks it is more capable than its rivals",
+      "C. He is unaware of recent industry developments",
+      "D. He disagrees that the company should change agents"
+    ],
+    "correct": "A. He concurs with Mr. Beamer's opinion."
+  },
+  {
+    "question": "Which company will probably have the lowest prices?",
+    "options": [
+      "A. FMH Airmail",
+      "B. U.S Parcels",
+      "C. Worldwide Delivery Inc.",
+      "D. Hamilton Express"
+    ],
+    "correct": "A. FMH Airmail"
+  },
+  {
+    "question": "What does Mr. Varela offer to help with?",
+    "options": [
+      "A. The creation of a new contract",
+      "B. Emailing alternative shipping firms",
+      "C. The reorganization of a department",
+      "D. Hiring a new shipping manager"
+    ],
+    "correct": "A. The creation of a new contract"
+  },
+  {
+    "title": "\nAdventurer's Camping Equipment\nNationwide Sale!\nLet's take a look at  some good deals:",
+   "question": "Which of the following is NOT mentioned in the advertisement?",
+   "options": [
+     "A. The description of the items on sale",
+     "B. The beginning date of the sales period",
+     "C. The discounts on the items",
+     "D. The name of the store"
+   ],
+   "correct": "B. The beginning date of the sales period"
+ },
+ {
+   "question": "According to the ad, how much would it cost to purchase a 4-man tent and a sleeping bag?",
+   "options": [
+     "A. $130",
+     "B. $150",
+     "C. $238",
+     "D. $285"
+   ],
+   "correct": "C. $238"
+ },
+ {
+   "question": "What is the purpose of the letter?",
+   "options": [
+     "A. To clarify a misprint in an ad",
+     "B. To make a complaint about a defective item",
+     "C. To ask for a refund for a product purchased",
+     "D. To accuse the store of false advertising"
+   ],
+   "correct": "D. To accuse the store of false advertising"
+ },
+ {
+   "question": "In the letter, the word 'attached' in paragraph 1, line 2 is closest in meaning to",
+   "options": [
+     "A. fastened",
+     "B. included",
+     "C. restrained",
+     "D. disposed"
+   ],
+   "correct": "B. included"
+ },
+ {
+  "question": "Who did Mr. Waikinson write the letter to?",
+  "options": [
+    "A. The manager of the lrvine store",
+    "B. The store clerk he spoke with",
+    "C. The main office of the store",
+    "D. The advertising division of the newspaper"
+  ],
+  "correct": "C. The main office of the store"
   }
 ]
   

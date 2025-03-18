@@ -2208,6 +2208,159 @@
     "D. The advertising division of the newspaper"
   ],
   "correct": "C. The main office of the store"
+  },
+  {
+    "title": "\nTo: froberts@calcoffee.com\nFrom: gfoster@calcoffee.com\nRe: Departmental expenditures",
+   "question": "11. Who requested the expenditure data from Ms. Foster?",
+   "options": [
+     "A. Ms. Lee",
+     "B. Mr. Walker",
+     "C. Mr. Roberts",
+     "D. Mr. Ivanoff"
+   ],
+   "correct": "D. Mr. Ivanoff"
+ },
+ {
+  "question": "Why is California Coffee conducting an in-house audit?",
+  "options": [
+    "A. The government required it.",
+    "B. A consulting firm suggested it.",
+    "C. An accounting firm demanded it.",
+    "D. The Sales Department requested it."
+  ],
+  "correct": "B. A consulting firm suggested it."
+  },
+  {
+  "question": "Where can Mr. Roberts find hard copies of the documents he needs?",
+  "options": [
+    "A. In some file cabinets",
+    "B. In Ms. Foster’s office",
+    "C. In the attached report",
+    "D. In a folder on the intranet"
+  ],
+  "correct": "A. In some file cabinets"
+  },
+  {
+  "question": "What was the Sales Department’s budget for June 2007?",
+  "options": [
+    "A. $900,000",
+    "B. $74,873",
+    "C. $80,000",
+    "D. $44,550"
+  ],
+  "correct": "C. $80,000"
+  },
+  {
+  "question": "What accounted for more than 10% of the department’s spending in June?",
+  "options": [
+    "A. Office supplies",
+    "B. Advertising costs",
+    "C. Travel & Transportation",
+    "D. Employee benefits"
+  ],
+  "correct": "B. Advertising costs"
+  },
+  {
+    "title": "\nBest Business Practices\nKeep your company up-to-date with the latest research in business success!....\nREGISTRATION",
+   "question": "What is the purpose of the announcement?",
+    "options": [
+      "A. To modify the workshop schedule",
+      "B. To inform business owners of previous workshops",
+      "C. To ask for new workshop ideas",
+      "D. To promote upcoming workshops"
+    ],
+    "correct": "D. To promote upcoming workshops"
+  },
+  {
+    "question": "In the 2nd paragraph of the announcement, the word 'conducting' is similar in meaning to ...............",
+    "options": [
+      "A. neglecting",
+      "B. sending",
+      "C. presenting",
+      "D. electrifying"
+    ],
+    "correct": "C. presenting"
+  },
+  {
+    "question": "What is NOT a workshop topic?",
+    "options": [
+      "A. Using technology",
+      "B. Managing meetings",
+      "C. Product development",
+      "D. Finding new clients"
+    ],
+    "correct": "B. Managing meetings"
+  },
+  {
+    "question": "What is the fee for the workshop Charles Salazar plans to attend?",
+    "options": [
+      "A. $45",
+      "B. $65",
+      "C. $40",
+      "D. $55"
+    ],
+    "correct": "C. $40"
+  },
+  {
+    "question": "What does Charles Salazar want to know?",
+    "options": [
+      "A. Names of the presenters",
+      "B. Workshop locations",
+      "C. If he can get a discount",
+      "D. Which workshop would be most helpful to him"
+    ],
+    "correct": "C. If he can get a discount"
+  },
+  {
+    "title": "\nFrom: Cindy Chow\nSent: Tuesday, November 14, 2006\nTo: Edward Ngan; GSS/MALAYSIA - Renee Anderson; GSS/USA\nSubject: GSS Conference",
+   "question": "By when should the recipient of the e-mail respond if they are interested in visiting the new office?",
+    "options": [
+      "A. December 6",
+      "B. November 16",
+      "C. December 7",
+      "D. November 14"
+    ],
+    "correct": "B. November 16"
+  },
+  {
+    "question": "What is implied about the hotel in the e-mail?",
+    "options": [
+      "A. It is very expensive.",
+      "B. It only has non-smoking rooms.",
+      "C. It is located within a walking distance of the airport.",
+      "D. It will be very busy during the time of the conference."
+    ],
+    "correct": "D. It will be very busy during the time of the conference."
+  },
+  {
+    "question": "For those interested, how will they most likely go to the new office?",
+    "options": [
+      "A. A car has been arranged to pick them up.",
+      "B. They will catch a cab.",
+      "C. A shuttle bus is available at the hotel.",
+      "D. They will walk over."
+    ],
+    "correct": "D. They will walk over."
+  },
+  {
+    "question": "Which of the following will NOT be sent this week?",
+    "options": [
+      "A. A map of the hotel",
+      "B. A map of the new office",
+      "C. A map of the restaurant",
+      "D. A map of the conference place"
+    ],
+    "correct": "D. A map of the conference place"
+  },
+  {
+    "question": "Who will most likely send the maps?",
+    "options": [
+      "A. Michael O'Brien",
+      "B. Cindy Chow",
+      "C. Edward Ngan",
+      "D. Renee Anderson"
+    ],
+    "correct": "B. Cindy Chow"
   }
 ]
   

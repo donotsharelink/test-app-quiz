@@ -2361,6 +2361,260 @@
       "D. Renee Anderson"
     ],
     "correct": "B. Cindy Chow"
-  }
+  },
+    {
+        "title": "Eastern News - Severe Weather Alert",
+        "question": "Question 11. What can be found on the website listed in the article?",
+        "options": [
+            "A. The latest information on the approaching storm",
+            "B. Official orders for all residents to evacuate",
+            "C. A map of the coast from Mayfield to Lincoln Beach",
+            "D. Updates on important international news stories"
+        ],
+        "correct": "A. The latest information on the approaching storm"
+    },
+    {
+        "question": "Question 12. The word \"pose\" in paragraph 2, line 2 of the article is closest in meaning to",
+        "options": [
+            "A. situate",
+            "B. assume",
+            "C. imitate",
+            "D. present"
+        ],
+        "correct": "D. present"
+    },
+    {
+        "question": "Question 13. What is the notice mostly about?",
+        "options": [
+            "A. A request for help from people in surrounding towns",
+            "B. When and where a powerful storm will come ashore",
+            "C. Preparations for evacuating all town residents",
+            "D. Assistance being offered for withstanding the storm"
+        ],
+        "correct": "D. Assistance being offered for withstanding the storm"
+    },
+    {
+        "question": "Question 14. When was the notice probably issued?",
+        "options": [
+            "A. October 12",
+            "B. October 13",
+            "C. October 14",
+            "D. October 15"
+        ],
+        "correct": "B. October 13"
+    },
+    {
+        "question": "Question 15. What will NOT be provided at the Mayfield Auditorium?",
+        "options": [
+            "A. Drinking water",
+            "B. Tools",
+            "C. Beds",
+            "D. Meals"
+        ],
+        "correct": "B. Tools"
+    },
+    {
+        "title": "Sun Telecommunications Bill",
+        "question": "Question 191. How much will Ms. Parker pay for domestic long distance calls?",
+        "options": [
+            "A. $0.00",
+            "B. $8.55",
+            "C. $15.60",
+            "D. $24.35"
+        ],
+        "correct": "B. $8.55"
+    },
+    {
+        "question": "Question 192. What does the phone bill imply?",
+        "options": [
+            "A. Ms. Parker makes most of her calls from her cell phone.",
+            "B. The long distance calls are cheaper on the weekends.",
+            "C. There is a fixed rate on the telephone bill every month.",
+            "D. Angelina spends a lot of time surfing the Internet."
+        ],
+        "correct": "C. There is a fixed rate on the telephone bill every month."
+    },
+    {
+        "question": "Question 193. Which of the following service will NOT be available in July?",
+        "options": [
+            "A. Faster Internet connection",
+            "B. Speedier international calls",
+            "C. Quicker technical support",
+            "D. Availability of billing statements"
+        ],
+        "correct": "B. Speedier international calls"
+    },
+    {
+        "question": "Question 194. Starting in July, from which service will the users benefit?",
+        "options": [
+            "A. International calls",
+            "B. Domestic calls",
+            "C. Internet access",
+            "D. Basic subscription"
+        ],
+        "correct": "B. Domestic calls"
+    },
+    {
+        "question": "Question 195. Looking at the telephone bill, which service will likely affect Ms. Parker the least in July?",
+        "options": [
+            "A. Internet access",
+            "B. International phone calls",
+            "C. Domestic cells to cell phones",
+            "D. Basic monthly fee"
+        ],
+        "correct": "C. Domestic cells to cell phones"
+    },
+    {
+        "title": "Bastion, Inc. Shipment Arrival",
+        "question": "Question 181. What kind of company is Bastion, Inc.?",
+        "options": [
+            "A. A pipe manufacturer",
+            "B. An oil drilling company",
+            "C. A steel production plant",
+            "D. A gas processing facility"
+        ],
+        "correct": "A. A pipe manufacturer"
+    },
+    {
+        "question": "Question 182. What is Mr. Young's job?",
+        "options": [
+            "A. An engineer",
+            "B. A company manager",
+            "C. A factory supervisor",
+            "D. A construction worker"
+        ],
+        "correct": "C. A factory supervisor"
+    },
+    {
+        "question": "Question 183. What is the purpose of the second email?",
+        "options": [
+            "A. To request more staff",
+            "B. To send a design proposal",
+            "C. To report a working process",
+            "D. To ask for supplementary supplies"
+        ],
+        "correct": "C. To report a working process"
+    },
+    {
+        "question": "Question 184. When does Mr. Young expect production to be finished?",
+        "options": [
+            "A. In one month",
+            "B. In five months",
+            "C. In ten months",
+            "D. In eleven months"
+        ],
+        "correct": "B. In five months"
+    },
+    {
+        "question": "Question 185. How does Mr. Young satisfy Mr. Turner's request?",
+        "options": [
+            "A. He suggests a production schedule.",
+            "B. He sends an analysis of the materials.",
+            "C. He offers to work at the Chester plant.",
+            "D. He calculates monthly overhead costs."
+        ],
+        "correct": "A. He suggests a production schedule."
+    },
+    {
+        "title": "Cross-Cultural Communication in Business Negotiations",
+        "question": "Question 1. What do Julie and Dr. Steiner have in common?",
+        "options": [
+            "A. Both are interested in the same subject",
+            "B. Both have lived overseas in the past",
+            "C. Both are writing books",
+            "D. Both work in the same university"
+        ],
+        "correct": "A. Both are interested in the same subject"
+    },
+    {
+        "question": "Question 2. What can be inferred about Julie Luddon?",
+        "options": [
+            "A. She is writing a book about cultural negotiations",
+            "B. She has already received a bachelor's degree",
+            "C. She is studying to become a university professor",
+            "D. She wants to work in a foreign country"
+        ],
+        "correct": "B. She has already received a bachelor's degree"
+    },
+    {
+        "question": "Question 3. What does Ms. Luddon want to do?",
+        "options": [
+            "A. Inquire about the source of information mentioned in the article",
+            "B. Contradict what Dr. Steiner had said in his article",
+            "C. Learn as many languages as possible",
+            "D. Pursue a career in cross-cultural communication"
+        ],
+        "correct": "D. Pursue a career in cross-cultural communication"
+    },
+    {
+        "question": "Question 4. In the article, the word \"consternation\" in paragraph 2, line 3 is closest in meaning to",
+        "options": [
+            "A. Alarm",
+            "B. Admiration",
+            "C. Fear",
+            "D. Assurance"
+        ],
+        "correct": "A. Alarm"
+    },
+    {
+        "question": "Question 5. What does the article suggest?",
+        "options": [
+            "A. To take a course in international business relationships at the institute",
+            "B. Always to be alert of hints that can damage an ongoing business relationship",
+            "C. Not to mix business and pleasure when dealing with any culture",
+            "D. To know the culture of your business counterpart"
+        ],
+        "correct": "D. To know the culture of your business counterpart"
+    },
+    {
+        "title": "Animation Universe",
+        "question": "Question 1. According to the advertisement, when is the due date for submitting a completed paper?",
+        "options": [
+            "A. September 22",
+            "B. October 22",
+            "C. November 7",
+            "D. November 21"
+        ],
+        "correct": "D. November 21"
+    },
+    {
+        "question": "Question 2. In the advertisement, the word “integration” in paragraph 1, line 3 is closest in meaning to",
+        "options": [
+            "A. blending",
+            "B. usage",
+            "C. justification",
+            "D. interaction"
+        ],
+        "correct": "A. blending"
+    },
+    {
+        "question": "Question 3. What is the purpose of the advertisement?",
+        "options": [
+            "A. To notify authors of article acceptance",
+            "B. To offer subscriptions to a journal",
+            "C. To invite people to an animation screening",
+            "D. To encourage people to submit papers for a conference"
+        ],
+        "correct": "D. To encourage people to submit papers for a conference"
+    },
+    {
+        "question": "Question 4. For what purpose does a paper have to be submitted within two weeks after the conference?",
+        "options": [
+            "A. To be published",
+            "B. To be reviewed",
+            "C. To be submitted for another conference",
+            "D. To be edited"
+        ],
+        "correct": "A. To be published"
+    },
+    {
+        "question": "Question 5. What is the purpose of Mr. Sean Kim’s e-mail?",
+        "options": [
+            "A. To solicit a paper",
+            "B. To subscribe to a journal",
+            "C. To apply for an animation job",
+            "D. To inquire about the status of his proposal"
+        ],
+        "correct": "D. To inquire about the status of his proposal"
+    }
 ]
-  

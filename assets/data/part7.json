@@ -1,305 +1,5 @@
 [
   {
-    "title": "Gaz International Sells Its SIBẺIAN Oil Opẻatión to Local Company",
-    "question": "Question 171. What is true about Gaz International?",
-    "options": [
-        "A. It is a Russian-owned company.",
-        "B. It took control of another company.",
-        "C. Its stock price has slipped due to a false rumor.",
-        "D. It was involved in a multi-million dollar transaction recently."
-    ],
-    "correct": "D. It was involved in a multi-million dollar transaction recently."
-},
-{
-    "question": "Question 172. Which of the following will be the result of a deal mentioned in the article?",
-    "options": [
-        "A. Gaz International will become the leading company in its field.",
-        "B. Yevgeni Star seems to have gotten the better end of the deal.",
-        "C. Gaz International will now focus on establishing its business in new areas.",
-        "D. Yevgeni Star will distribute shares to its top management staff."
-    ],
-    "correct": "C. Gaz International will now focus on establishing its business in new areas."
-},
-{
-    "question": "Question 173. Who is Mr. Fritz Faschier?",
-    "options": [
-        "A. A reporter for a local newspaper",
-        "B. The president of Gaz International",
-        "C. A spokesperson for Yevgeni Star",
-        "D. A Russian authority"
-    ],
-    "correct": "B. The president of Gaz International"
-},
-{
-    "question": "Question 174. According to the article, when will the deal be finalized?",
-    "options": [
-        "A. In 2015",
-        "B. In five years",
-        "C. Within the following weeks",
-        "D. By early next year"
-    ],
-    "correct": "D. By early next year"
-},
-{
-    "question": "Question 175. What is the main cause of the delay in closing the deal?",
-    "options": [
-        "A. Both companies want to take it slow.",
-        "B. Some complications have surfaced regarding legal issues.",
-        "C. The Russian authorities usually take a long time to process a new license.",
-        "D. There are many details to be worked out."
-    ],
-    "correct": "D. There are many details to be worked out."
-},
-{
-	"title": "Sports Today",
-    "question": "Question 167. What is Mr. Bridges' main purpose in writing this letter?",
-    "options": [
-        "A. To thank the customer for subscribing to their magazine",
-        "B. To make a complaint about some bad service",
-        "C. To renew the subscription for another year",
-        "D. To provide an answer to an inquiry the customer had made"
-    ],
-    "correct": "D. To provide an answer to an inquiry the customer had made"
-},
-{
-    "question": "Question 168. When did Ms. Parker send the letter?",
-    "options": [
-        "A. October 18",
-        "B. September 28",
-        "C. November 1",
-        "D. October 19"
-    ],
-    "correct": "B. September 28"
-},
-{
-    "question": "Question 169. What will Ms. Parker receive as compensation?",
-    "options": [
-        "A. A 25% discount on her next subscription",
-        "B. Other publications from the same company at no cost",
-        "C. A check for the missing magazines",
-        "D. An apology letter from the president of the company"
-    ],
-    "correct": "B. Other publications from the same company at no cost"
-},
-{
-    "question": "Question 170. The phrase \"up for\" in paragraph 1, line 4 is closest in meaning to",
-    "options": [
-        "A. owed",
-        "B. appropriated",
-        "C. expected",
-        "D. suited"
-    ],
-    "correct": "C. expected"
-},
-{
-    "question": "Question 171. What is being sent with this letter?",
-    "options": [
-        "A. Magazines",
-        "B. A check",
-        "C. An envelope",
-        "D. A receipt of purchase"
-    ],
-    "correct": "C. An envelope"
-},
-{
-	"title": "Important Notice",
-    "question": "Question 161. What is the purpose of the announcement?",
-    "options": [
-        "A. To restrict unnecessary staff members from visiting the work area",
-        "B. To provide a timetable for some office renovation work",
-        "C. To thank employees for their support in the work",
-        "D. To prepare for an unexpected shipment delay"
-    ],
-    "correct": "B. To provide a timetable for some office renovation work"
-},
-{
-    "question": "Question 162. Where will employees on the ground floor likely be on March 15?",
-    "options": [
-        "A. The first floor",
-        "B. The second floor",
-        "C. The third floor",
-        "D. The fourth floor"
-    ],
-    "correct": "A. The first floor"
-},
-{
-    "question": "Question 163. The word \"urge\" in paragraph 2, line 2 is closest in meaning to",
-    "options": [
-        "A. influence",
-        "B. encourage",
-        "C. support",
-        "D. command"
-    ],
-    "correct": "B. encourage"
-},
-{
-    "question": "Question 164. During which period will the employees on the fourth floor not be affected?",
-    "options": [
-        "A. April 11-20",
-        "B. April 21-30",
-        "C. May 1-9",
-        "D. May 10-19"
-    ],
-    "correct": "A. April 11-20"
-},
-{
-	"title": "GEM",
-    "question": "168. What is being reported?",
-    "options": [
-        "A. The slow rise of the desktop division to the top of its field",
-        "B. The listing of a computer company on the stock market",
-        "C. The new spending budget for GEM Computer’s R&D Department",
-        "D. The selling of a struggling division of GEM Computers"
-    ],
-    "correct": "D. The selling of a struggling division of GEM Computers"
-},
-{
-    "question": "169. Why did GEM Computers make its decision to make the move?",
-    "options": [
-        "A. Electronica made an offer they couldn’t refuse.",
-        "B. The company was on the verge of bankruptcy.",
-        "C. The division was not making enough profits.",
-        "D. The demand for computer desktops was low."
-    ],
-    "correct": "C. The division was not making enough profits."
-},
-{
-    "question": "170. How is the news being interpreted by the market?",
-    "options": [
-        "A. GEM will soon become obsolete.",
-        "B. GEM got the best of the deal.",
-        "C. Electronica will start making a lot of money.",
-        "D. The desktop division will receive more funds."
-    ],
-    "correct": "B. GEM got the best of the deal."
-},
-{
-	"title": "Joy-Market Return Policy",
-    "question": "165. What is NOT stated in the policy?",
-    "options": [
-        "A. Goods must be brought back in their original form.",
-        "B. The original receipt must accompany the returned item.",
-        "C. A time limit is placed on items being returned.",
-        "D. A full refund will be provided for all items if returned within 24 hours."
-    ],
-    "correct": "D. A full refund will be provided for all items if returned within 24 hours."
-},
-{
-    "question": "166. In which of the following situations would a person have to show photo identification?",
-    "options": [
-        "A. When returning items that are valued over $100 before tax",
-        "B. If the merchandise was originally bought by someone other than the person returning it",
-        "C. In situations where the boxes have been opened and used",
-        "D. If a credit card was used when making the purchase"
-    ],
-    "correct": "B. If the merchandise was originally bought by someone other than the person returning it"
-},
-{
-    "question": "167. According to the policy, how long will it take to get a refund for a purchase made under $100?",
-    "options": [
-        "A. It depends on the product purchased.",
-        "B. A refund will be provided right away.",
-        "C. At least 3 business days",
-        "D. 24 hours if receipt is provided"
-    ],
-    "correct": "B. A refund will be provided right away."
-},
-{
-	"title": "EXPRESS",
-    "question": "164. Who is the recipient of this delivery?",
-    "options": [
-        "A. Mr. Mitchell",
-        "B. Mr. Lee",
-        "C. Mr. Chow",
-        "D. Mr. Mills"
-    ],
-    "correct": "B. Mr. Lee"
-},
-{
-    "question": "165. How should the delivery be handled if it does not reach the recipient?",
-    "options": [
-        "A. Return it to the sender right away",
-        "B. Resend it to an alternate address",
-        "C. Keep it at the post office for safekeeping",
-        "D. Dispose of it after 30 days"
-    ],
-    "correct": "B. Resend it to an alternate address"
-},
-{
-    "question": "166. Which of the following information is NOT in the document?",
-    "options": [
-        "A. The shipping cost",
-        "B. The delivery date",
-        "C. The number of items",
-        "D. The sender’s contact number"
-    ],
-    "correct": "D. The sender’s contact number"
-},
-{
-	  "title": "Homestead Landholding Limited",
-    "question": "153. What is NOT being offered with the job?",
-    "options": [
-        "A. Good wages",
-        "B. Housing",
-        "C. Health insurance",
-        "D. A car"
-    ],
-    "correct": "D. A car"
-},
-{	
-    "question": "154. What will be the duties of the person being hired?",
-    "options": [
-        "A. Buying and leasing properties",
-        "B. Providing career counseling to other workers",
-        "C. Cleaning and maintaining an apartment complex",
-        "D. Motivating the sales staff of the company"
-    ],
-    "correct": "C. Cleaning and maintaining an apartment complex"
-},
-{
-	"title": "Ofice Supply & Depot",
-    "question": "153. What is suggested in the advertisement?",
-    "options": [
-        "A. The store will be celebrating its third year of business.",
-        "B. The price of items in the store will be slashed roughly by one third.",
-        "C. The sale period will last for two months.",
-        "D. The discounts will only be available to premier members."
-    ],
-    "correct": "B. The price of items in the store will be slashed roughly by one third."
-},
-{
-    "question": "154. How can a customer receive the largest discount?",
-    "options": [
-        "A. By coming in early to the store",
-        "B. By purchasing two or more items",
-        "C. By signing up for a special membership card",
-        "D. By becoming a regular customer"
-    ],
-    "correct": "C. By signing up for a special membership card"
-},
-{
-	"title": "Sophie's Place",
-    "question": "159. Which of the following is NOT true about the results of the questionnaire?",
-    "options": [
-        "A. Mr. Williams felt that the restaurant was understaffed.",
-        "B. Mr. Williams liked the food he had today.",
-        "C. Mr. Williams felt that the price was very unreasonable.",
-        "D. Mr. Williams thought the menu selection needs were limited."
-    ],
-    "correct": "C. Mr. Williams felt that the price was very unreasonable."
-},
-{
-    "question": "160. What can be implied about Mr. Williams?",
-    "options": [
-        "A. He had dinner at the restaurant.",
-        "B. He came with several guests.",
-        "C. He is a regular customer.",
-        "D. He is a very picky person."
-    ],
-    "correct": "A. He had dinner at the restaurant."
-},
-  {
-    "title": "Goodman Theater Company",
     "question": " 163. What problem is mentioned in the memo?",
     "options": [
       "A. A meeting had to be rescheduled.",
@@ -320,7 +20,6 @@
     "correct": "A. Approve a budget"
   },
   {
-    "title": "\nJamie's Kitchen membership free meal coupon!",
     "question": " 153. What is the coupon for?",
     "options": [
       "A. A grocery store",
@@ -328,7 +27,7 @@
       "C. A restaurant",
       "D. A golf course"
     ],
-    "correct": "C. A restaurant"
+    "correct": "C. A restauran"
   },
   {
     "question": " 154. What restriction is placed on the coupon?",
@@ -341,7 +40,6 @@
     "correct": "D. It cannot be used as money."
   },
   {
-    "title": "\nFACSIMILE TRANSMISSION",
     "question": " 164. What is the purpose of this fax?",
     "options": [
       "A. To submit a request for shopping",
@@ -362,7 +60,6 @@
     "correct": "B. Fill out the survey sheet"
   },
   {
-    "title": "\nTo: All staff\nFrom: Jenny Smith\nDate: Nov. 28, 2007",
     "question": " 161. How long did Jenny Smith work for Gardner Agency?",
     "options": [
       "A. 5 years",
@@ -393,7 +90,6 @@
     "correct": "D. Victoria Rodriguez"
   },
   {
-    "title": "\nMark Weaver\n712 Colorado Street #201\n75661 Montreal, Canada",
     "question": " 170. What is the main purpose of the letter?",
     "options": [
       "A. To inform the company that he has failed to give an advanced notice",
@@ -424,15 +120,13 @@
     "correct": "C. To pursue his long-term career goals"
   },
   {
-    "title": "\nFastnGo Greating!",
     "question": " 166. What is the purpose of this document?",
     "options": [
       "A. To explain how to make a reservation for moving",
       "B. To outline the services of moving",
       "C. To illustrate the problem of using a phone overseas",
       "D. To provide a list of travel guideline"
-    ],
-    "correct": "B. To outline the services of moving"
+    ]
   },
   {
     "question": " 167. What is implied about FastnGo service?",
@@ -465,7 +159,6 @@
     "correct": "A. A truck rental customer"
   },
   {
-    "title": "\nYour answer to a healthy way of life at Valance Center",
     "question": " 155. What kind of business is Valance Center?",
     "options": [
       "A. An organic food store",
@@ -506,7 +199,6 @@
     "correct": "A. 1 day"
   },
   {
-    "title": "\nAttn All staff\nFrom: Alice Bergman, Vice President\nSubject: Network disruption",
     "question": " 26. What is the purpose of the memo?",
     "options": [
       "A. To warn about a recent security risk",
@@ -534,7 +226,7 @@
       "C. A health services worker",
       "D. A company vice president"
     ],
-    "correct": "B. A department supervisor"
+    "correct": "C. A health services worker"
   },
   {
     "question": " 29. What is Ms. Copland's complaint?",
@@ -557,7 +249,6 @@
     "correct": "A. Find a solution to the team's problem"
   },
   {
-    "title": "\nThe Wasniak Herald\nWednesday, August 14\nFrom WTH Meteorological Center",
     "question": " 186.  According to the weather forecast in the first article, what is true?",
     "options": [
       "A. The city would go through unprecedented temperatures",
@@ -608,7 +299,6 @@
     "correct": "B. The temperature"
   },
   {
-    "title": "\nFrom: Joan Shelton\nFrom: Joan Shelton\nTo: Customer Service\nSubject: Game Console Problem",
     "question": " 186. When did Joan Shelton buy the Play Game console?",
     "options": [
       "A. Two days ago",
@@ -626,7 +316,7 @@
       "C. By sending the game console to the factory",
       "D. By contacting the store"
     ],
-    "correct": "A. By using the website"
+    "correct": "B. By calling the helpline"
   },
   {
     "question": " 188. According to the second e-mail, what should Joan Shelton do next?",
@@ -659,7 +349,6 @@
     "correct": "D. The factory technicians are underqualified."
   },
   {
-    "title": "\nDon't Miss This Unique Event!\nDaniel Metzgert performs unplugged at Savoy Music",
     "question": " 196. After October 18, how can someone pay for a ticket?",
     "options": [
       "A. In cash only",
@@ -710,7 +399,6 @@
     "correct": "D. She will attend the concert with other people."
   },
   {
-    "title": "\nLakeshore 305 Jefferson Avenue\nDenver, CO 81 I62\nDear Mr. Leerberg",
     "question": " 196. What position is Ms. Platt interested in?",
     "options": [
       "A. Assistant manager",
@@ -761,7 +449,6 @@
     "correct": "C. optimistic"
   },
   {
-    "title": "\nSarah\nMarch 29\nMr. and Mrs. Sdchs\n12 Mountain View Road,\nDenver, Colorado\nCrystal Ski Resorts",
     "question": " 191. Why did Jose Campbell write to the Sachs?",
     "options": [
       "A. to make a complaint",
@@ -812,7 +499,6 @@
     "correct": "A. lack"
   },
   {
-    "title": "\nABSOLUTE INTERIOR DESIGN",
     "question": " 186. What was the purpose of Bob Brown's e-mail?",
     "options": [
       "A. to ask what to expect from the renovation",
@@ -863,7 +549,6 @@
     "correct": "C. They will arrange the Initial Consultation."
   },
   {
-    "title": "\nJennifer Romero\nPanacea Pharmaceuticals\n7887 Akerley Blvd.\nPlymouth, WV 10228\nMarch 22, 2007",
     "question": " 196. What is the purpose of this letter?",
     "options": [
       "A. To reserve a large meeting space",
@@ -871,7 +556,7 @@
       "C. To inquire about the hotel's location",
       "D. To request an instructor for a training session"
     ],
-    "correct": "A. To reserve a large meeting space"
+    "correct": "D. To request an instructor for a training session"
   },
   {
     "question": " 197. What will Panacea Pharmaceuticals do in April?",
@@ -881,7 +566,7 @@
       "C. Have an executive lunch meeting",
       "D. Write a review of the SleepWell Inn"
     ],
-    "correct": "B. Teach employees new skills"
+    "correct": "D. Write a review of the SleepWell Inn"
   },
   {
     "question": " 198. How much will it cost to rent the equipment?",
@@ -914,7 +599,6 @@
     "correct": "D. A raised platform for instructors"
   },
   {
-    "title": "\nTo: Good Day, Inc. <goodday@co.us>\nFrom: Sanjay Singh <singhyaho@ecosys.net>\nSubject: Request for Proposals #34b",
     "question": " 186. What is the purpose of Mr. Singh’s proposal?",
     "options": [
       "A. To become the supplier of paper products for a company",
@@ -932,7 +616,7 @@
       "C. State-of-the-art technology",
       "D. Relatively affordable pricing"
     ],
-    "correct": "C. State-of-the-art technology"
+    "correct": "D. Relatively affordable pricing"
   },
   {
     "question": " 188. What kind of company does Ms. Lawrence work for?",
@@ -965,7 +649,6 @@
     "correct": "B. only"
   },
   {
-    "title": "\nTo Whom It May Concern",
     "question": " 101. What was the actual total cost?",
     "options": [
       "A. $10",
@@ -1016,7 +699,6 @@
     "correct": "B. To request missing information"
   },
   {
-    "title": "\nWoodbury Gas & Electric Company",
     "question": " 181. When was the invoice created?",
     "options": [
       "A. March 1",
@@ -1067,7 +749,6 @@
     "correct": "A. He handles customer complaints."
   },
   {
-    "title": "\nClarity Telecom",
     "question": " 196. What is being advertised?",
     "options": [
       "A. A new kind of Internet protocol",
@@ -1118,7 +799,6 @@
     "correct": "B. They charged a fee for switching services."
   },
   {
-    "title": "\nDear Ms. Lawrence,\n\nYour subscription to Travelways Magazine is up for renewal in just a few issues. Please fill out the attached renewal form, and mail back the pre-paid card in order to prevent any disruption in your service.",
     "question": " 1. Why was the first letter written?",
     "options": [
       "A. To inform an existing customer about a new kind of magazine",
@@ -1169,7 +849,6 @@
     "correct": "B. A free stay at a hotel"
   },
   {
-    "title": "\nRecruiting VICE PRESIDENT for Hong Kong Branch Office",
     "question": " 6. What can be inferred about Tenda Electronics?",
     "options": [
       "A. It is in search of the right person to replace its current vice president.",
@@ -1187,7 +866,7 @@
       "C. Knowledge of the electronics industry",
       "D. Previous managerial experience"
     ],
-    "correct": "B. A post-graduate degree"
+    "correct": "A. The ability to communicate in two or more languages"
   },
   {
     "question": " 8. Which of the following duties will be a responsibility of the newly hired employee?",
@@ -1207,7 +886,7 @@
       "C. Andrew Patterson",
       "D. Bob Lo"
     ],
-    "correct": "C. Andrew Patterson"
+    "correct": "D. Bob Lo"
   },
   {
     "question": " 10. What makes Alicia Wang's qualifications stand out amongst the other candidates?",
@@ -1217,10 +896,9 @@
       "C. Her level of education",
       "D. Her managerial experience"
     ],
-    "correct": "C. Her level of education"
+    "correct": "D. Her managerial experience"
   },
   {
-    "title": "\nMarch 26, 2006\n\nMr. Samuel Brown\nTruestar Corporation\nFinance Department Manager\nRe: Account # 2958A",
     "question": " 11. The word \"outstanding\" in the first letter is closest in meaning to",
     "options": [
       "A. superior",
@@ -1248,7 +926,7 @@
       "C. To offer a special type of a service",
       "D. To request an overdue payment"
     ],
-    "correct": "B. To notify the client that the account has been settled"
+    "correct": "B. To notify the client that the account has been settled."
   },
   {
     "question": " 14. According to the second letter, when should Jason contact Mr. Brown again?",
@@ -1271,7 +949,6 @@
     "correct": "D. Six months"
   },
   {
-    "title": "\nSubscriptions Department\nChannel Region Times\n3500 Broadway\nVancouver, BC",
     "question": " 176. Why did Ms. Ibach write this letter?",
     "options": [
       "A. To share her opinion about a product",
@@ -1322,7 +999,6 @@
     "correct": "B. She has read it for a long time."
   },
   {
-    "title": "\nPROPERTY FOR SALE\n\nBedrooms: 3\nBathrooms: 2\nPrice: $309,700\nTown/City: New Hartford",
     "question": " Question 196. Where would the advertisement most likely be seen?",
     "options": [
       "A. In a current events publication",
@@ -1373,7 +1049,6 @@
     "correct": "A. If any previous inhabitants had regularly smoked inside"
   },
   {
-    "title": "\nOct. 25, 2007\nCustomer Service Department\nPrime Choice Telecommunications\n2901 Callagher Highway, Building 4B\nWellsworth, VA",
     "question": " Question 191. Why did Mr. Batty write the letter?",
     "options": [
       "A. To report a billing error",
@@ -1391,7 +1066,7 @@
       "C. The times listed for all 3 calls are accurate",
       "D. The company has a history of making nilling errors"
     ],
-    "correct": "B. He did make the billed calls to Dublin and London"
+    "correct": "B. He did make the billed calls to Dublin and London."
   },
   {
     "question": " Question 193. What does Mr.Batty request?",
@@ -1424,7 +1099,6 @@
     "correct": "B. September 27"
   },
   {
-    "title": "\nWhy shop anywhere else?\nMall fashions are here but definitely none\nat mall prices!",
     "question": " Question 186. What kind of business is EveryMore?",
     "options": [
       "A. A designer store",
@@ -1475,7 +1149,6 @@
   "correct": "B. The company guarantees customer's satisfaction."
 },
 {
-  "title": "\nRockford Daily Classified ad",
   "question": " Question 196. Who is the audience for the advertisement?",
   "options": [
     "A. Jobseekers with experience in sales",
@@ -1526,7 +1199,6 @@
     "correct": "D. His previous managers"
   },
   {
-    "title": "\nDate: September 14\nFrom: Amy Chung <a.chung@mind.com>\nTo: Mandy Moore <mandy@odyssey.com>",
     "question": " Question 176. How did Ms. Chung get to know about the Odyssey Restaurant?",
     "options": [
       "A. Through a friend",
@@ -1577,7 +1249,6 @@
     "correct": "C. It has expired."
   },
   {
-    "title": "\nHomer's Suit Exhibition Room",
     "question": " Question 186. What is the main purpose of the advertisement?",
     "options": [
       "A. To explain that belts cannot be discounted",
@@ -1628,7 +1299,6 @@
     "correct": "D. The promotion doesn't begin yet."
   },
   {
-    "title": "\nYour View Tonic LCD monitor",
     "question": " Question 1. What must the person do when filing a warranty claim?",
     "options": [
       "A. Bring the product",
@@ -1679,7 +1349,6 @@
     "correct": "C. Mr. Low may have to pay some money to get the monitor fixed"
   },
   {
-    "title": "\nINVOICE\n\nYankee Automotive, Inc.\n716 Sugar Maple Lane\nNashua, NH 03064",
     "question": " Question 1. Why did Mr. Spencer bring his car to Yankee Automotive?",
     "options": [
       "A. To have his windshield replaced",
@@ -1714,7 +1383,7 @@
     "options": [
       "A. To bill the customer for work done on his car",
       "B. To apologize for a previous billing error",
-      "C. To request payment of an outstanding balance",
+      "C. To request payment of an outstanding balance ",
       "D. To thank the customer for a partial payment"
     ],
     "correct": "C. To request payment of an outstanding balance"
@@ -1723,14 +1392,13 @@
     "question": " Question 5. What does Ms. Patel offer to Mr. Spencer?",
     "options": [
       "A. They will accept a partial payment of $200.",
-      "B. They will consider an alternative payment plan.",
+      "B. They will consider an alternative payment plan. ",
       "C. They will pay him back in monthly installments.",
       "D. They will reduce his outstanding balance by 1%."
     ],
     "correct": "B. They will consider an alternative payment plan."
   },
   {
-    "title": "\nUK citizens donated a record $12 billion in 2006, up 28 percent from 2005.",
     "question": " Question 178. What reason is given for the sharp rise in 2006 donations?",
     "options": [
       "A. Growth on the stock market",
@@ -1761,7 +1429,6 @@
     "correct": "B. The hopeful economic situation"
   },
   {
-    "title": "\nCustomer Claim Form\nSabrina’s Women’s Clothing",
     "question": " Question 191. Why did Amy send the claim form?",
     "options": [
       "A. Because the item she ordered was damaged",
@@ -1812,11 +1479,10 @@
     "correct": "A. The company will send the money via her credit card account."
   },
   {
-    "title": "\nAugust 20\nWelcome to Bethune College Residence",
     "question": " Question 181. Why did the residence post the notice of August20?",
     "options": [
       "A. To tell the students about the dorm",
-      "B. To establish a basic set of ground rules",
+      "B. To establish a basic set of ground rules ",
       "C. To warn the students about other bad students",
       "D. To tell the students how to get into the residence"
     ],
@@ -1828,14 +1494,14 @@
       "A. The new resident tutor",
       "B. The friends of people living in Bethune",
       "C. The students who don't live in Bethune",
-      "D. The residents of Bethune dorm"
+      "D. The residents of Bethune dorm "
     ],
     "correct": "D. The residents of Bethune dorm"
   },
   {
     "question": " Question 183. Why was the letter of November written?",
     "options": [
-      "A. Mr Camber's guest broke the rules",
+      "A. Mr Camber's guest broke the rules ",
       "B. Mr McCain broke the rules",
       "C. Mr Camber's friends were having fun",
       "D. Mr Camber himself broke the rules"
@@ -1862,759 +1528,6 @@
       "D. His friends will be allowed back"
     ],
     "correct": "A. He will be kicked out of the residence"
-  },
-  {
-    "title": "\nStraton Life Assurance",
-    "question": " Question 172. What is scheduled to happen following the president's address?",
-    "options": [
-      "A. Participants will enjoy some Chinese cuisine.",
-      "B. The attendees will listen to an opening speech by Jack Thornton.",
-      "C. New employees will participate in group activities.",
-      "D. Staff members will check the list by the front entrance."
-    ],
-     "correct": "A. Participants will enjoy some Chinese cuisine."
-  },
-  {
-    "question": " Question 173. What are the participants requested to do all day?",
-    "options": [
-      "A. Be on their best behavior",
-      "B. Have name tags on their bodies",
-      "C. Refer to the list for any changes in venue",
-      "D. Jot down questions to ask at the end of the day"
-    ],
-     "correct": "B. Have name tags on their bodies"
-  },
-  {
-    "question": " Question 174. Who is Harry Sinclair?",
-    "options": [
-      "A. One of the managers",
-      "B. The event coordinator",
-      "C. The previous year's new employee of the year",
-      "D. A motivational speaker"
-    ],
-     "correct": "C. The previous year's new employee of the year"
-  },
-  {
-    "question": " Question 175. What are the participants reminded to do?",
-    "options": [
-      "A. Ask a lot of questions",
-      "B. Thank the coordinator",
-      "C. Return the name tags",
-      "D. Draft a report"
-    ],
-     "correct": "D. Draft a report"
-  },
-  {
-    "title": "\nThank you for dining at Le Bistro Lamoure. We hope that you had a great experience with us.......",
-    "question": "What is the purpose of Jilles LeDuc's email?",
-    "options": [
-      "A. To offer free food",
-      "B. To answer a customer's concerns",
-      "C. To get customer feedback",
-      "D. To ask a friend for dinner"
-    ],
-     "correct": "B. To answer a customer's concerns"
-  },
-  {
-    "question": "What did David find the best about the restaurant?",
-    "options": [
-      "A. The food",
-      "B. The service",
-      "C. The ambiance",
-      "D. The wait"
-    ],
-     "correct": "A. The food"
-  },
-  {
-    "question": "How did David feel about his most recent meal at Le Bistro Lamoure?",
-    "options": [
-      "A. It was quite disappointing",
-      "B. It was horrible",
-      "C. It was excellent",
-      "D. It was pretty much okay"
-    ],
-    "correct": "D. It was pretty much okay"
-  },
-  {
-    "question": "How can David take advantage of the complimentary dessert?",
-    "options": [
-      "A. Make arrangements with the head chef",
-      "B. Make a reservation",
-      "C. Reply to the manager's email",
-      "D. Say hello to the manager when he goes next"
-    ],
-    "correct": "D. Say hello to the manager when he goes next"
-  },
-  {
-    "question": "What has the restaurant done to help their service problem?",
-    "options": [
-      "A. Expanded the dining room",
-      "B. Crammed more tables in the dining room",
-      "C. Made the food faster",
-      "D. Made the waiters run"
-    ],
-    "correct": "A. Expanded the dining room"
-  },
-  {
-    "title": "\nHuman Resources\nSmith Formal Interior Design\n24 Callaghan Circle\nLondon, England",
-    "question": "What is the purpose of Mr. Murthy’s letter?",
-    "options": [
-    "A. To submit his resignation",
-    "B. To contact a job applicant",
-    "C. To inquire about open positions",
-    "D. To apply for employment"
-  ],
-  "correct": "D. To apply for employment"
-  },
-  {
-    "question": "Where has Mr. Murthy spent the majority of his career?",
-    "options": [
-      "A. Uptown Home & Office",
-      "B. Brighton Interiors",
-      "C. Elegant Designs",
-      "D. Smith Formal Interior Design"
-    ],
-    "correct": "B. Brighton Interiors"
-  },
-  {
-    "question": "What will accompany Mr. Murthy's letter?",
-    "options": [
-      "A. A company advertisement",
-      "B. A sample of his work",
-      "C. A recommendation letter",
-      "D. A business card"
-    ],
-    "correct": "B. A sample of his work"
-  },
-  {
-    "question": "Which aspect does Ms. Vaas point out as Mr. Murthy’s shortcoming?",
-    "options": [
-      "A. His educational background",
-      "B. His salary expectations",
-      "C. His career as an independent design consultant",
-      "D. His experience at Brighton Interiors"
-    ],
-    "correct": "D. His experience at Brighton Interiors"
-  },
-  {
-    "question": "What does Ms. Vaas recommend?",
-    "options": [
-      "A. Gaining more experience in the design industry",
-      "B. Calling personnel before applying for future positions",
-      "C. Applying for a job in the company’s overseas branch",
-      "D. Mailing an extra copy of his résumé to personnel"
-    ],
-    "correct": "B. Calling personnel before applying for future positions"
-  },
-  {
-    "question": "What is the main topic of the article?",
-    "options": [
-      "A. The loss of jobs in the auto industry",
-      "B. Vehicles that use alternative sources of energy",
-      "C. A proposed change of regulation for an industry",
-      "D. An international consensus on a new environmental standard"
-    ],
-    "correct": "C. A proposed change of regulation for an industry"
-  },
-  {
-    "question": "What does the government say is not working anymore?",
-    "options": [
-      "A. Noncompulsory enforcement of emissions limits",
-      "B. Encouraging the manufacture of small vehicles",
-      "C. Strict quotas on the oil industry",
-      "D. Supporting to produce more hybrid cars"
-    ],
-    "correct": "A. Noncompulsory enforcement of emissions limits"
-  },
-  {
-    "question": "Who wrote the letter?",
-    "options": [
-      "A. A reporter",
-      "B. A marketing consultant",
-      "C. The president of a union",
-      "D. The leader of a business organization"
-    ],
-    "correct": "D. The leader of a business organization"
-  },
-  {
-    "question": "What does Mr. Fulcrum suggest the government try?",
-    "options": [
-      "A. Doing further research",
-      "B. Subsidizing the industry",
-      "C. Formulating a less strict plan",
-      "D. Creating new modes of transportation"
-    ],
-    "correct": "C. Formulating a less strict plan"
-  },
-  {
-    "question": "What do Darcy Enfield and Larry Fulcrum have in common?",
-    "options": [
-      "A. They work in factories",
-      "B. They are union members",
-      "C. They work in research and development",
-      "D. They are involved with the same industry"
-    ],
-    "correct": "D. They are involved with the same industry"
-  },
-  {
-    "title": "\nPassage 1:\nMarrakech restaurant is an exotic dining experience that transcends mere dining and brings you into....\nPassage 2:\nFrom: Mia Niro\nTo:Tahar Jelloun\nSubject: Reservation\nDate: Dec 3",
-    "question": "What is being promoted?",
-    "options": [
-      "A. A special offer by a restaurant",
-      "B. A cultural event",
-      "C. A new website",
-      "D. A Moroccan cooking school"
-    ],
-    "correct": "A. A special offer by a restaurant"
-  },
-  {
-    "question": "What is the purpose of Mia Niro's e-mail?",
-    "options": [
-      "A. To invite Mr. Jelloun to a party",
-      "B. To ask Mr. Jelloun to promote her restaurant",
-      "C. To change her reservation",
-      "D. To make a reservation for an event"
-    ],
-    "correct": "D. To make a reservation for an event"
-  },
-  {
-    "question": "According to the passages, what seems to be true?",
-    "options": [
-      "A. Marrakech restaurant holds special events every month",
-      "B. People who make a reservation in December are eligible for a 10% discount",
-      "C. Marrakech restaurant put the wrong information in the advertisement.",
-      "D. Mr. Jelloun is planning a birthday party for his customer."
-    ],
-    "correct": "C. Marrakech restaurant put the wrong information in the advertisement."
-  },
-  {
-    "question": "According to the advertisement, what is NOT a characteristic of Marrakech restaurant?",
-    "options": [
-      "A. Waiters wearing Moroccan clothes",
-      "B. Live music played by a North African band",
-      "C. A multi-course meal composed of meats, vegetables, and salads",
-      "D. Excellent staff and high-quality service"
-    ],
-    "correct": "B. Live music played by a North African band"
-  },
-  {
-    "question": "What is Mia Niro asking Tahar Jelloun to do?",
-    "options": [
-      "A. Correct inaccurate information",
-      "B. Organize a birthday party",
-      "C. Improve restaurant service",
-      "D. Send a confirmation for the reservation"
-    ],
-    "correct": "D. Send a confirmation for the reservation"
-  },
-  {
-     "title": "\nTo: Tomas Varela\nCc:\nSubject: New shipping firm needed\nMr. Varela,\nMy name is Katie Miller, and I work in the accounts payable department.",
-    "question": "For whom is Ms. Miller's email intended?",
-    "options": [
-      "A. A delivery person",
-      "B. A shipping company executive",
-      "C. A coworker at her company",
-      "D. Her department supervisor"
-    ],
-    "correct": "C. A coworker at her company"
-  },
-  {
-    "question": "Why does Mr. Beamer want to change shipping agents?",
-    "options": [
-      "A. The current firm is unreliable for overseas deliveries",
-      "B. Mr. Varela told him about a provider with lower rates",
-      "C. His company needs to send urgent shipments",
-      "D. Hamilton Express is relocating its facilities overseas."
-    ],
-    "correct": "A. The current firm is unreliable for overseas deliveries"
-  },
-  {
-    "question": "What can be inferred from Mr. Varela's comments about the current shipping agent?",
-    "options": [
-      "A. He concurs with Mr. Beamer's opinion.",
-      "B. He thinks it is more capable than its rivals",
-      "C. He is unaware of recent industry developments",
-      "D. He disagrees that the company should change agents"
-    ],
-    "correct": "A. He concurs with Mr. Beamer's opinion."
-  },
-  {
-    "question": "Which company will probably have the lowest prices?",
-    "options": [
-      "A. FMH Airmail",
-      "B. U.S Parcels",
-      "C. Worldwide Delivery Inc.",
-      "D. Hamilton Express"
-    ],
-    "correct": "A. FMH Airmail"
-  },
-  {
-    "question": "What does Mr. Varela offer to help with?",
-    "options": [
-      "A. The creation of a new contract",
-      "B. Emailing alternative shipping firms",
-      "C. The reorganization of a department",
-      "D. Hiring a new shipping manager"
-    ],
-    "correct": "A. The creation of a new contract"
-  },
-  {
-    "title": "\nAdventurer's Camping Equipment\nNationwide Sale!\nLet's take a look at  some good deals:",
-   "question": "Which of the following is NOT mentioned in the advertisement?",
-   "options": [
-     "A. The description of the items on sale",
-     "B. The beginning date of the sales period",
-     "C. The discounts on the items",
-     "D. The name of the store"
-   ],
-   "correct": "B. The beginning date of the sales period"
- },
- {
-   "question": "According to the ad, how much would it cost to purchase a 4-man tent and a sleeping bag?",
-   "options": [
-     "A. $130",
-     "B. $150",
-     "C. $238",
-     "D. $285"
-   ],
-   "correct": "C. $238"
- },
- {
-   "question": "What is the purpose of the letter?",
-   "options": [
-     "A. To clarify a misprint in an ad",
-     "B. To make a complaint about a defective item",
-     "C. To ask for a refund for a product purchased",
-     "D. To accuse the store of false advertising"
-   ],
-   "correct": "D. To accuse the store of false advertising"
- },
- {
-   "question": "In the letter, the word 'attached' in paragraph 1, line 2 is closest in meaning to",
-   "options": [
-     "A. fastened",
-     "B. included",
-     "C. restrained",
-     "D. disposed"
-   ],
-   "correct": "B. included"
- },
- {
-  "question": "Who did Mr. Waikinson write the letter to?",
-  "options": [
-    "A. The manager of the lrvine store",
-    "B. The store clerk he spoke with",
-    "C. The main office of the store",
-    "D. The advertising division of the newspaper"
-  ],
-  "correct": "C. The main office of the store"
-  },
-  {
-    "title": "\nTo: froberts@calcoffee.com\nFrom: gfoster@calcoffee.com\nRe: Departmental expenditures",
-   "question": "11. Who requested the expenditure data from Ms. Foster?",
-   "options": [
-     "A. Ms. Lee",
-     "B. Mr. Walker",
-     "C. Mr. Roberts",
-     "D. Mr. Ivanoff"
-   ],
-   "correct": "D. Mr. Ivanoff"
- },
- {
-  "question": "Why is California Coffee conducting an in-house audit?",
-  "options": [
-    "A. The government required it.",
-    "B. A consulting firm suggested it.",
-    "C. An accounting firm demanded it.",
-    "D. The Sales Department requested it."
-  ],
-  "correct": "B. A consulting firm suggested it."
-  },
-  {
-  "question": "Where can Mr. Roberts find hard copies of the documents he needs?",
-  "options": [
-    "A. In some file cabinets",
-    "B. In Ms. Foster’s office",
-    "C. In the attached report",
-    "D. In a folder on the intranet"
-  ],
-  "correct": "A. In some file cabinets"
-  },
-  {
-  "question": "What was the Sales Department’s budget for June 2007?",
-  "options": [
-    "A. $900,000",
-    "B. $74,873",
-    "C. $80,000",
-    "D. $44,550"
-  ],
-  "correct": "C. $80,000"
-  },
-  {
-  "question": "What accounted for more than 10% of the department’s spending in June?",
-  "options": [
-    "A. Office supplies",
-    "B. Advertising costs",
-    "C. Travel & Transportation",
-    "D. Employee benefits"
-  ],
-  "correct": "B. Advertising costs"
-  },
-  {
-    "title": "\nBest Business Practices\nKeep your company up-to-date with the latest research in business success!....\nREGISTRATION",
-   "question": "What is the purpose of the announcement?",
-    "options": [
-      "A. To modify the workshop schedule",
-      "B. To inform business owners of previous workshops",
-      "C. To ask for new workshop ideas",
-      "D. To promote upcoming workshops"
-    ],
-    "correct": "D. To promote upcoming workshops"
-  },
-  {
-    "question": "In the 2nd paragraph of the announcement, the word 'conducting' is similar in meaning to ...............",
-    "options": [
-      "A. neglecting",
-      "B. sending",
-      "C. presenting",
-      "D. electrifying"
-    ],
-    "correct": "C. presenting"
-  },
-  {
-    "question": "What is NOT a workshop topic?",
-    "options": [
-      "A. Using technology",
-      "B. Managing meetings",
-      "C. Product development",
-      "D. Finding new clients"
-    ],
-    "correct": "B. Managing meetings"
-  },
-  {
-    "question": "What is the fee for the workshop Charles Salazar plans to attend?",
-    "options": [
-      "A. $45",
-      "B. $65",
-      "C. $40",
-      "D. $55"
-    ],
-    "correct": "C. $40"
-  },
-  {
-    "question": "What does Charles Salazar want to know?",
-    "options": [
-      "A. Names of the presenters",
-      "B. Workshop locations",
-      "C. If he can get a discount",
-      "D. Which workshop would be most helpful to him"
-    ],
-    "correct": "C. If he can get a discount"
-  },
-  {
-    "title": "\nFrom: Cindy Chow\nSent: Tuesday, November 14, 2006\nTo: Edward Ngan; GSS/MALAYSIA - Renee Anderson; GSS/USA\nSubject: GSS Conference",
-   "question": "By when should the recipient of the e-mail respond if they are interested in visiting the new office?",
-    "options": [
-      "A. December 6",
-      "B. November 16",
-      "C. December 7",
-      "D. November 14"
-    ],
-    "correct": "B. November 16"
-  },
-  {
-    "question": "What is implied about the hotel in the e-mail?",
-    "options": [
-      "A. It is very expensive.",
-      "B. It only has non-smoking rooms.",
-      "C. It is located within a walking distance of the airport.",
-      "D. It will be very busy during the time of the conference."
-    ],
-    "correct": "D. It will be very busy during the time of the conference."
-  },
-  {
-    "question": "For those interested, how will they most likely go to the new office?",
-    "options": [
-      "A. A car has been arranged to pick them up.",
-      "B. They will catch a cab.",
-      "C. A shuttle bus is available at the hotel.",
-      "D. They will walk over."
-    ],
-    "correct": "D. They will walk over."
-  },
-  {
-    "question": "Which of the following will NOT be sent this week?",
-    "options": [
-      "A. A map of the hotel",
-      "B. A map of the new office",
-      "C. A map of the restaurant",
-      "D. A map of the conference place"
-    ],
-    "correct": "D. A map of the conference place"
-  },
-  {
-    "question": "Who will most likely send the maps?",
-    "options": [
-      "A. Michael O'Brien",
-      "B. Cindy Chow",
-      "C. Edward Ngan",
-      "D. Renee Anderson"
-    ],
-    "correct": "B. Cindy Chow"
-  },
-    {
-        "title": "Eastern News - Severe Weather Alert",
-        "question": "Question 11. What can be found on the website listed in the article?",
-        "options": [
-            "A. The latest information on the approaching storm",
-            "B. Official orders for all residents to evacuate",
-            "C. A map of the coast from Mayfield to Lincoln Beach",
-            "D. Updates on important international news stories"
-        ],
-        "correct": "A. The latest information on the approaching storm"
-    },
-    {
-        "question": "Question 12. The word \"pose\" in paragraph 2, line 2 of the article is closest in meaning to",
-        "options": [
-            "A. situate",
-            "B. assume",
-            "C. imitate",
-            "D. present"
-        ],
-        "correct": "D. present"
-    },
-    {
-        "question": "Question 13. What is the notice mostly about?",
-        "options": [
-            "A. A request for help from people in surrounding towns",
-            "B. When and where a powerful storm will come ashore",
-            "C. Preparations for evacuating all town residents",
-            "D. Assistance being offered for withstanding the storm"
-        ],
-        "correct": "D. Assistance being offered for withstanding the storm"
-    },
-    {
-        "question": "Question 14. When was the notice probably issued?",
-        "options": [
-            "A. October 12",
-            "B. October 13",
-            "C. October 14",
-            "D. October 15"
-        ],
-        "correct": "B. October 13"
-    },
-    {
-        "question": "Question 15. What will NOT be provided at the Mayfield Auditorium?",
-        "options": [
-            "A. Drinking water",
-            "B. Tools",
-            "C. Beds",
-            "D. Meals"
-        ],
-        "correct": "B. Tools"
-    },
-    {
-        "title": "Sun Telecommunications Bill",
-        "question": "Question 191. How much will Ms. Parker pay for domestic long distance calls?",
-        "options": [
-            "A. $0.00",
-            "B. $8.55",
-            "C. $15.60",
-            "D. $24.35"
-        ],
-        "correct": "B. $8.55"
-    },
-    {
-        "question": "Question 192. What does the phone bill imply?",
-        "options": [
-            "A. Ms. Parker makes most of her calls from her cell phone.",
-            "B. The long distance calls are cheaper on the weekends.",
-            "C. There is a fixed rate on the telephone bill every month.",
-            "D. Angelina spends a lot of time surfing the Internet."
-        ],
-        "correct": "C. There is a fixed rate on the telephone bill every month."
-    },
-    {
-        "question": "Question 193. Which of the following service will NOT be available in July?",
-        "options": [
-            "A. Faster Internet connection",
-            "B. Speedier international calls",
-            "C. Quicker technical support",
-            "D. Availability of billing statements"
-        ],
-        "correct": "B. Speedier international calls"
-    },
-    {
-        "question": "Question 194. Starting in July, from which service will the users benefit?",
-        "options": [
-            "A. International calls",
-            "B. Domestic calls",
-            "C. Internet access",
-            "D. Basic subscription"
-        ],
-        "correct": "B. Domestic calls"
-    },
-    {
-        "question": "Question 195. Looking at the telephone bill, which service will likely affect Ms. Parker the least in July?",
-        "options": [
-            "A. Internet access",
-            "B. International phone calls",
-            "C. Domestic cells to cell phones",
-            "D. Basic monthly fee"
-        ],
-        "correct": "C. Domestic cells to cell phones"
-    },
-    {
-        "title": "Bastion, Inc. Shipment Arrival",
-        "question": "Question 181. What kind of company is Bastion, Inc.?",
-        "options": [
-            "A. A pipe manufacturer",
-            "B. An oil drilling company",
-            "C. A steel production plant",
-            "D. A gas processing facility"
-        ],
-        "correct": "A. A pipe manufacturer"
-    },
-    {
-        "question": "Question 182. What is Mr. Young's job?",
-        "options": [
-            "A. An engineer",
-            "B. A company manager",
-            "C. A factory supervisor",
-            "D. A construction worker"
-        ],
-        "correct": "C. A factory supervisor"
-    },
-    {
-        "question": "Question 183. What is the purpose of the second email?",
-        "options": [
-            "A. To request more staff",
-            "B. To send a design proposal",
-            "C. To report a working process",
-            "D. To ask for supplementary supplies"
-        ],
-        "correct": "C. To report a working process"
-    },
-    {
-        "question": "Question 184. When does Mr. Young expect production to be finished?",
-        "options": [
-            "A. In one month",
-            "B. In five months",
-            "C. In ten months",
-            "D. In eleven months"
-        ],
-        "correct": "B. In five months"
-    },
-    {
-        "question": "Question 185. How does Mr. Young satisfy Mr. Turner's request?",
-        "options": [
-            "A. He suggests a production schedule.",
-            "B. He sends an analysis of the materials.",
-            "C. He offers to work at the Chester plant.",
-            "D. He calculates monthly overhead costs."
-        ],
-        "correct": "A. He suggests a production schedule."
-    },
-    {
-        "title": "Cross-Cultural Communication in Business Negotiations",
-        "question": "Question 1. What do Julie and Dr. Steiner have in common?",
-        "options": [
-            "A. Both are interested in the same subject",
-            "B. Both have lived overseas in the past",
-            "C. Both are writing books",
-            "D. Both work in the same university"
-        ],
-        "correct": "A. Both are interested in the same subject"
-    },
-    {
-        "question": "Question 2. What can be inferred about Julie Luddon?",
-        "options": [
-            "A. She is writing a book about cultural negotiations",
-            "B. She has already received a bachelor's degree",
-            "C. She is studying to become a university professor",
-            "D. She wants to work in a foreign country"
-        ],
-        "correct": "B. She has already received a bachelor's degree"
-    },
-    {
-        "question": "Question 3. What does Ms. Luddon want to do?",
-        "options": [
-            "A. Inquire about the source of information mentioned in the article",
-            "B. Contradict what Dr. Steiner had said in his article",
-            "C. Learn as many languages as possible",
-            "D. Pursue a career in cross-cultural communication"
-        ],
-        "correct": "D. Pursue a career in cross-cultural communication"
-    },
-    {
-        "question": "Question 4. In the article, the word \"consternation\" in paragraph 2, line 3 is closest in meaning to",
-        "options": [
-            "A. Alarm",
-            "B. Admiration",
-            "C. Fear",
-            "D. Assurance"
-        ],
-        "correct": "A. Alarm"
-    },
-    {
-        "question": "Question 5. What does the article suggest?",
-        "options": [
-            "A. To take a course in international business relationships at the institute",
-            "B. Always to be alert of hints that can damage an ongoing business relationship",
-            "C. Not to mix business and pleasure when dealing with any culture",
-            "D. To know the culture of your business counterpart"
-        ],
-        "correct": "D. To know the culture of your business counterpart"
-    },
-    {
-        "title": "Animation Universe",
-        "question": "Question 1. According to the advertisement, when is the due date for submitting a completed paper?",
-        "options": [
-            "A. September 22",
-            "B. October 22",
-            "C. November 7",
-            "D. November 21"
-        ],
-        "correct": "D. November 21"
-    },
-    {
-        "question": "Question 2. In the advertisement, the word “integration” in paragraph 1, line 3 is closest in meaning to",
-        "options": [
-            "A. blending",
-            "B. usage",
-            "C. justification",
-            "D. interaction"
-        ],
-        "correct": "A. blending"
-    },
-    {
-        "question": "Question 3. What is the purpose of the advertisement?",
-        "options": [
-            "A. To notify authors of article acceptance",
-            "B. To offer subscriptions to a journal",
-            "C. To invite people to an animation screening",
-            "D. To encourage people to submit papers for a conference"
-        ],
-        "correct": "D. To encourage people to submit papers for a conference"
-    },
-    {
-        "question": "Question 4. For what purpose does a paper have to be submitted within two weeks after the conference?",
-        "options": [
-            "A. To be published",
-            "B. To be reviewed",
-            "C. To be submitted for another conference",
-            "D. To be edited"
-        ],
-        "correct": "A. To be published"
-    },
-    {
-        "question": "Question 5. What is the purpose of Mr. Sean Kim’s e-mail?",
-        "options": [
-            "A. To solicit a paper",
-            "B. To subscribe to a journal",
-            "C. To apply for an animation job",
-            "D. To inquire about the status of his proposal"
-        ],
-        "correct": "D. To inquire about the status of his proposal"
-    }
+  } 
 ]
+  

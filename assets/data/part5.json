@@ -708,5 +708,26 @@
             "D. from"
         ],
         "correct": "B. of"
+    },
+    {
+        "question": "Question 172. ------- good evaluations from their immediate bosses should be the main objective of those who wish to be promoted this year.",
+        "options": [
+            "A. Attain",
+            "B. Attained",
+            "C. Attaining",
+            "D. Attainable"
+        ],
+        "correct": "C. Attaining"
+    },
+    {
+        "question": "Question 173. Alvinson Clothiers' branch in. Milan has been open since last August ------. is quickly becoming our busiest location.",
+        "options": [
+            "A. and",
+            "B. so",
+            "C. than",
+            "D. or"
+        ],
+        "correct": "A. and"
     }
+
 ]
